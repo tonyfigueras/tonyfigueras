@@ -10,13 +10,13 @@
 **ZAZ**: Desarrollador de software administrativo para el control del inventario, ventas y reportes de motos en Perú. Utilicé herramientas en el back-end y front-end como Laravel 8, HTML5, JavaScript, JSON, JQuery, Ajax, MySQL y Bootstrap.
 
 ## 🖥️ La Web Artisan
-**La Web Artisan**: Desarrollador de aplicaciones web administrativas y educativas para diferentes instituciones de Perú, utilizando herramientas en el back-end y front-end como Laravel 8, HTML5, JavaScript, JSON, JQuery, Ajax, MySQL y Bootstrap.
+**La Web Artisan**: Desarrollador de aplicaciones web administrativas y educativas para diferentes instituciones de Perú, utilizando herramientas en el back-end y front-end como Laravel 8, HTML5, JavaScript, JSON, JQuery, react, node, Ajax, MySQL y Bootstrap.
 
 ## 🇨🇱 Clent - Chile
 **Victorinox**: Realización de un landing page y Dashboard para la administración y control, seguimiento y reportes estadísticos por parte de los distribuidores de Victorinox Chile. Las herramientas utilizadas en el front-end y back-end fueron Laravel 8, HTML5, JavaScript, JSON, JQuery, Ajax, MySQL y Bootstrap.
 
 ## 🇪🇨 Aprenderonline - Ecuador
-**Aprenderonline**: Aplicación web académica para la capacitación, tutoría, orientación, asesoramiento y desarrollo de aprendizaje con una amplia oferta de cursos y servicios académicos. Este sistema fue desarrollado en su front-end y back-end utilizando tecnologías como Laravel 8, HTML5, JavaScript, JSON, Axios, Vue.js, Vuex, MySQL y Vuetify.
+**Aprenderonline**: Aplicación web académica para la capacitación, tutoría, orientación, asesoramiento y desarrollo de aprendizaje con una amplia oferta de cursos y servicios académicos. Este sistema fue desarrollado en su front-end y back-end utilizando tecnologías como Laravel 8, HTML5, JavaScript, JSON, Axios, Vue.js, Vuex, react, node, MySQL y Vuetify.
 
 ## 🇻🇪 StringBin - Venezuela
 **BusesEnRed**: Aplicación web para el registro de transportistas, autobuses, seguimiento de viajes, reportes, estadísticas y compras (repuestos, chasis y carrocerías). Este sistema fue desarrollado en su front-end y back-end utilizando tecnologías como Laravel 7, HTML5, JavaScript, JSON, JQuery, Vue.js, Vuex, MySQL, Chart.js, FPDF y Bootstrap-Vue.
