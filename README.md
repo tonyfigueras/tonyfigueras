@@ -1,6 +1,6 @@
 # 🛠️ Habilidades
 
-- **PHP** ⚪⚪⚪⚪⚪⚪        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    - **JavaScript** ⚪⚪⚪⚪⚪⚪   - **Vue.Js** ⚪⚪⚪⚪⚪⚪
+- **PHP** ⚪⚪⚪⚪⚪⚪        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    - **JavaScript** ⚪⚪⚪⚪⚪⚪   - **Vue.Js** ⚪⚪⚪⚪⚪⚪
 - **Git** ⚪⚪⚪⚪⚫⚫        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **jQuery** ⚪⚪⚪⚪⚪⚪       - **MySQL** ⚪⚪⚪⚪⚫⚫
 - **PostgreSQL** ⚪⚪⚪⚪⚫⚫ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **CodeIgniter** ⚪⚪⚪⚪⚫⚫  - **Laravel** ⚪⚪⚪⚪⚪⚪
 - **Ext.Js** ⚪⚪⚪⚪⚪⚪     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Vuex** ⚪⚪⚪⚪⚫⚫         - **Vuetify** ⚪⚪⚪⚪⚪⚪
