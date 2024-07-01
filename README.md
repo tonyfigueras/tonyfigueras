@@ -2,10 +2,10 @@
 
 - **PHP** ⚪⚪⚪⚪⚪⚪           | - **JavaScript** ⚪⚪⚪⚪⚪⚪  | - **Vue.Js** ⚪⚪⚪⚪⚪⚪
 - **Git** ⚪⚪⚪⚪⚫⚫          | - **jQuery** ⚪⚪⚪⚪⚪⚪      | - **MySQL** ⚪⚪⚪⚪⚫⚫
-- **PostgreSQL** ⚪⚪⚪⚪⚫⚫ | - **CodeIgniter** ⚪⚪⚪⚪⚫⚫ | - **Laravel** ⚪⚪⚪⚪⚪⚪
-- **Ext.Js** ⚪⚪⚪⚪⚪⚪     | - **Vuex** ⚪⚪⚪⚪⚫⚫        | - **Vuetify** ⚪⚪⚪⚪⚪⚪
-- **Bootstrap** ⚪⚪⚪⚪⚫⚫  | - **Ajax** ⚪⚪⚪⚫⚫⚫        | - **Bootstrap-Vue** ⚪⚪⚪⚪⚫⚫
-- **React** ⚪⚪⚪⚪⚫⚫      | - **Node** ⚪⚪⚪⚫⚫⚫
+- **PostgreSQL** ⚪⚪⚪⚪⚫⚫   | - **CodeIgniter** ⚪⚪⚪⚪⚫⚫ | - **Laravel** ⚪⚪⚪⚪⚪⚪
+- **Ext.Js** ⚪⚪⚪⚪⚪⚪       | - **Vuex** ⚪⚪⚪⚪⚫⚫        | - **Vuetify** ⚪⚪⚪⚪⚪⚪
+- **Bootstrap** ⚪⚪⚪⚪⚫⚫    | - **Ajax** ⚪⚪⚪⚫⚫⚫        | - **Bootstrap-Vue** ⚪⚪⚪⚪⚫⚫
+- **React** ⚪⚪⚪⚪⚫⚫        | - **Node** ⚪⚪⚪⚫⚫⚫
 
 
 
