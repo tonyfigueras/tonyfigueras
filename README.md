@@ -1,6 +1,6 @@
 # 💼 Experiencia Profesional
 
-## ![Webclass](./imagenes/webclass.jpeg) Webclass - Chile 
+## ![Webclass](./imagenes/webclass.png) Webclass - Chile 
 **Webclass**: Desarrollos y mantenimiento de funcionalidades o módulos académicos para la capacitación, tutoría, orientación, asesoramiento y desarrollo de aprendizaje para los diferentes niveles educativos en CHILE. En el front-end y back-end utilicé tecnologías como Laravel 8, HTML5, JavaScript, JSON, Axios, Vue.js, Vuex, MySQL y Vuetify.
 
 ## 🇪🇸 Eliminalia - España
